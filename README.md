@@ -73,6 +73,8 @@ Analyze product categories and customization trends.
 | Channels | Mobile App, Drive-Thru, In-Store, Kiosk |
 | Features | Customer Demographics, Order Details, Revenue, Fulfillment Time, Satisfaction |
 
+**Data Source:** [Starbucks Customer Ordering Patterns](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer-ordering-patterns)
+
 ---
 
 ## 🛠 Tech Stack
@@ -131,8 +133,14 @@ Examples of insights generated from this project include:
 ---
 
 ## 📷 Dashboard Preview
+Screenshot:
 
-*(Dashboard screenshots will be added here.)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d35118-1c6e-4a35-8247-935d13597bee" />
+
+
+Video:
+
+https://github.com/user-attachments/assets/f1600a2a-3b46-4984-9861-0e9341e1d099
 
 ---
 
@@ -152,6 +160,6 @@ Examples of insights generated from this project include:
 
 Data Analytics Portfolio
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/muchammadwr
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/muchammadwr
